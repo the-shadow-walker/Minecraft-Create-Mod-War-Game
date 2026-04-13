@@ -25,7 +25,7 @@ There are three equal-value scrap currencies, each tied to a biome. No single sc
 | Scrap | Biome | Buys |
 |---|---|---|
 | Chalkos Scrap | Desert | Andesite Alloy, Copper, basic building materials |
-| Chrys Scrap | Jungle | Zinc, Gold, Brass components |
+| Chrys Scrap | Jungle | Zinc, Gold|
 | Nether Scrap | Plains | Iron, Redstone, Diamonds (rare/expensive) |
 
 ### Ingot Upgrades (8x Purchasing Power)
