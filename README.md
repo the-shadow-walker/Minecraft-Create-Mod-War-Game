@@ -111,6 +111,16 @@ To prevent hoarding, scrap output decreases by **5% for every additional scrap p
 - No factory or furnace destruction
 - Building, logistics, scouting, and transport are allowed
 
+### War Start Deployment
+At the beginning of each war window (Extraction War on Friday 6 PM, and each Total War window), **all online players receive a deployment screen** before the war begins. Players have **60 seconds** to select a spawn-in location from the following options:
+
+- Their **team's Factory**
+- Any **extractor currently owned by their team** (home extractors always available; neutral/enemy extractors not eligible)
+
+Players who do not select within 60 seconds are automatically deployed to their team's Factory. Players who log in after the war has started spawn at their last known location as normal.
+
+This system is enforced by the server — players are frozen and cannot move or take damage during the deployment window.
+
 ### Extraction War — Friday 6 PM to Sunday 10 PM
 - All 15 neutral extractors are free to contest and capture
 - Light combat and skirmishing are allowed
