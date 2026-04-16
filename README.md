@@ -1,6 +1,9 @@
 # The Great Industrial War: Server Rulebook
 
 ---
+## TL;DR
+Three teams fight over an industrial map. You mine and haul debris back to your factory to process into scrap currency, which you spend at the market on materials. Weekends open up war windows where you fight to capture neutral extractors across the map for more income, and during specific hours you can raid and blow up enemy factories for a cut of their weekly output. Upgrading your extractors and factory requires Create mod power and Netherite, so building good mechanical infrastructure matters as much as fighting. No single team can snowball — the more extractors you own the less efficient they get, and destroyed factories respawn the next Friday with upgrades intact. Season ends when one team controls everything or the last surviving team surrenders.
+--
 
 ## 1. Team Setup and Territory
 
